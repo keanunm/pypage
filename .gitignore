@@ -1,0 +1,8 @@
+# Ignore everything by default (test files, generated websites, cache, etc.)
+*
+
+# Only track pypage.py, README.md, and .gitignore
+!pypage.py
+!README.md
+!.gitignore
+
